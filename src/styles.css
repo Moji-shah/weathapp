@@ -6,3 +6,7 @@
   font-weight: bold;
   color: rgb(33, 33, 111);
 }
+p{
+  display: inline;
+  font-size: 14px;
+}
